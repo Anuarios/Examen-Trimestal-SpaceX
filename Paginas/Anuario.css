@@ -1,0 +1,61 @@
+body{
+  background-image:url(../Fondos/Fondo 3.png);
+  background-size: 100% 100%;
+  background-attachment: fixed;;
+}
+.Ftitulo{
+  background-image:url(../Fondos/pp.jpg);
+  background-size: cover;
+  height: 100px;
+  overflow: hidden;
+}
+.Emcabezado{
+  font-family: 'Oswald', sans-serif;
+  font-size: 350%;
+  font-weight: 1000;
+  color: #003B75;
+}
+.Fondo{
+  background-image: url(../Fondos/Imagen1.png);
+  background-size: cover;
+  height: 80px;
+  overflow: hidden;
+}
+.Menciones{
+  font-family: 'Oswald', sans-serif;
+  font-size: 250%;
+  height: auto;
+  font-weight: 1000;
+  color: #FFFFFF;
+}
+.link{
+  font-family: 'Oswald', sans-serif;
+  font-size: 120%;
+  font-weight: 1000;
+  color:#F3D707;
+}
+.title1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 140%;
+  font-weight: 1000;
+  color: #FFFFFF;
+}
+.title{
+  font-family: 'Oswald', sans-serif;
+  font-size: 170%;
+  font-weight: 1000;
+  color: #003B75;
+}
+.texto{
+  font-family: 'Oswald', sans-serif;
+  font-size: 140%;
+  font-weight: 1000;
+  color: #F3D707;
+}
+.Lista{
+  width: 250px;
+  height: 150px;
+  position: static;
+  margin-left: 400px;
+
+}

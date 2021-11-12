@@ -1,0 +1,20 @@
+body{
+  background-image:url(../Fondos/Portada.png);
+  background-size: 100% 100%;
+  background-attachment: fixed;;
+}
+.Boton{
+  width: 50px;
+  height: 00px;
+  background-color: #ffffff;
+  position: static;
+  margin-left: 450px;
+  margin-top: 450px;
+}
+.Boton1{
+  width: 150px;
+  height: 100px;
+  margin-left: 50px;
+  margin-right:50px;
+
+}
